@@ -1,0 +1,50 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .browse-topics h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .nav-pills .nav-link {
+    color: #000;
+    font-weight: bold;
+  }
+  
+  .nav-pills .nav-link.active {
+    background-color: #007bff;
+  }
+  
+  .card {
+    border: none;
+    border-radius: 10px;
+  }
+  
+  .card-body {
+    text-align: center;
+  }
+  
+  .how-it-works {
+    background-color: #006d77;
+    padding: 50px 0;
+  }
+  
+  .how-it-works h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 30px;
+  }
+  
+  .step .icon {
+    font-size: 2rem;
+  }
+  
+  .btn-light {
+    color: #006d77;
+    border: 1px solid #fff;
+  }
+  
